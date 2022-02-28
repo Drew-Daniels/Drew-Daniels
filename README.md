@@ -2,7 +2,7 @@
 I'm a self-taught, aspiring full-stack developer based out of Austin, TX that started learning to code in March 2020. 
 
 ## What I'm Working on:
-I began The Odin Project in June 2021 and have been voraciously learning web-development on my own by completing every project in their curriculum.
+I began The Odin Project in June 2021 and have been learning web-development on my own by completing every project in their curriculum.
 
 #### When I'm Not Working/Coding:
 I'm either cooking, playing singing and playing guitar at local open mics, or hitting the trails on my mountain bike!
