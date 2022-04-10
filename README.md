@@ -3,6 +3,8 @@ I'm a self-taught, aspiring full-stack developer based out of Austin, TX that st
 
 ## What I'm Working on:
 I began The Odin Project in June 2021 and have been learning web-development on my own by completing every project in their curriculum.
+### View my portfolio here:
+<a href="https://drewdaniels.info/">Link</a>
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drew-Daniels)](https://github.com/anuraghazra/github-readme-stats)
