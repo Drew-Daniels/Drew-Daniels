@@ -4,9 +4,6 @@ I'm a self-taught, full-stack developer based out of Austin, TX that started lea
 ### View my portfolio:
 <a href="https://drewdaniels.info/" target="_blank">drewdaniels.info</a>
 
-## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drew-Daniels)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Find me on:
 <a href="https://drewdaniels.info/" target="_blank">
   <img src="./drew-daniels-portfolio-site-logo.svg" alt="Drew Daniels' Portfolio Site Logo" height=45em>
