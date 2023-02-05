@@ -1,5 +1,5 @@
 # About Me
-I'm a self-taught, full-stack developer based out of Austin, TX that started learning to code in March 2020. 
+I'm a self-taught, full-stack engineer based out of Austin, TX that started learning to code in March 2020. 
 
 ### View my portfolio:
 <a href="https://drewdaniels.info/" target="_blank">drewdaniels.info</a>
