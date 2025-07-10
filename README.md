@@ -1,5 +1,5 @@
 # About Me
-Full-stack engineer based out of Austin, TX.
+Full-stack engineer based out of Dallas, TX.
 
 https://codeberg.org/drewdaniels
 
